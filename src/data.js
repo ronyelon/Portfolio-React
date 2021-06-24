@@ -8,12 +8,12 @@ export const projects = [
     link: "https://ronyelon.github.io/Code-Quiz/",
   },
   {
-    title: "",
+    title: "Password Generator",
     subtitle: "",
     description:
-      "",
+      "The app walks the user thru a series of prompts to generate a random, secure password.",
     image: "./project-2.gif",
-    link: "",
+    link: "https://ronyelon.github.io/PasswordGenerator/",
   },
   {
     title: "",
@@ -56,7 +56,7 @@ export const skills = [
   "HTML",
   "Node",
   "CSS",
-  "Boostrap",
+  "Bootstrap",
   "mySQL",
   "Git",
 ];
