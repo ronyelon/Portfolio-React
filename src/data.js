@@ -3,7 +3,7 @@ export const projects = [
     title: "Code Quiz",
     subtitle: "HTML/CSS/JavaScript",
     description:
-      "This is a timed coding quiz with multiple-choice questions. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface. When the quiz begins, a timer starts. An incorrect answer will result in time subtracted from the clock. When all questions are answered or the timer reaches 0 then the game is over. Upon comp[letion you can save your initials and your score.",
+      "This is a timed coding quiz with multiple-choice questions. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface. When the quiz begins, a timer starts. An incorrect answer will result in time subtracted from the clock. When all questions are answered or the timer reaches 0 then the game is over. When done you can save your initials and your score.",
     image: "./project-1.gif",
     link: "https://ronyelon.github.io/Code-Quiz/",
   },
@@ -11,17 +11,17 @@ export const projects = [
     title: "Password Generator",
     subtitle: "",
     description:
-      "The app walks the user thru a series of prompts to generate a random, secure password.",
+      "The app walks the user thru a series of prompts to generate a random, secure password. Once the Generate Password button is depressed, it will send the user a series of prompts. After the data is collected, a randomly generated password is created. HTML/CSS/JavaScript are used. ",
     image: "./project-2.gif",
     link: "https://ronyelon.github.io/PasswordGenerator/",
   },
   {
-    title: "",
+    title: "Team Profile Generator",
     subtitle: "",
     description:
-      "",
+      "The Team Profile Generator is a CLI application run in Node which requests information about members of an engineering team and creates an HTML file displaying the information. It is created using Object-Oriented Programming concepts, using classes and constructors to create objects bsed on information provided by the user. Node.js is used, using Inquirer and FS node modules. ",
     image: "./project-3.gif",
-    link: "",
+    link: "https://github.com/ronyelon/Team-Profile-Generator",
   },
   {
     title: "",
