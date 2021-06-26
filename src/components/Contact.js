@@ -74,7 +74,7 @@ export default function Contact() {
             Contact Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Send me some information about the project/role in mind so 
+            Send information about the project/role in mind so 
             we can work towards collaborating!
           </p>
           <div className="relative mb-4">

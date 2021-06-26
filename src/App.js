@@ -18,3 +18,5 @@ export default function App() {
     </main>
   );
 }
+
+//thank you to Reed Barger for the frameowrk on this portfolio site  fohttps://www.freecodecamp.org/news/build-portfolio-website-react/
