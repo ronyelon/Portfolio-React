@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Password Generator",
-    subtitle: "",
+    subtitle: "HTML/CSS/JavaScript",
     description:
       "The app walks the user thru a series of prompts to generate a random, secure password. Once the Generate Password button is depressed, it will send the user a series of prompts. After the data is collected, a randomly generated password is created. HTML/CSS/JavaScript are used. ",
     image: "./project-2.gif",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Team Profile Generator",
-    subtitle: "",
+    subtitle: "Node.js",
     description:
       "The Team Profile Generator is a CLI application run in Node which requests information about members of an engineering team and creates an HTML file displaying the information. It is created using Object-Oriented Programming concepts, using classes and constructors to create objects bsed on information provided by the user. Node.js is used, using Inquirer and FS node modules. ",
     image: "./project-3.gif",
