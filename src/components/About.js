@@ -8,10 +8,10 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Rony.
             <br className="hidden lg:inline-block" />
-            I enjoy finding creative solutions to everyday problems.
+            Let's work together.
           </h1>
           <p className="mb-8 leading-relaxed">
-            test test
+          I enjoy creating exciting and creative solutions to solve everyday problems. My ideal setting is a collaborative team environment where new ideas and practices are shared and opportunity for growth and learning thrives. 
           </p>
           <div className="flex justify-center">
             <a
