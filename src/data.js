@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "HTML/CSS/JavaScript",
     description:
       "This is a timed coding quiz with multiple-choice questions. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It has a clean, polished, and responsive user interface. When the quiz begins, a timer starts. An incorrect answer will result in time subtracted from the clock. When all questions are answered or the timer reaches 0 then the game is over. When done you can save your initials and your score.",
-    image: "./Code-Quiz-vid.mp4",
+    image: "./Code-Quiz-vid1.gif",
     link: "https://ronyelon.github.io/Code-Quiz/",
   },
   {
