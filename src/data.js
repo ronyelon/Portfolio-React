@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "HTML/CSS/JavaScript",
     description:
       "The app walks the user thru a series of prompts to generate a random, secure password. Once the Generate Password button is depressed, it will send the user a series of prompts. After the data is collected, a randomly generated password is created. HTML/CSS/JavaScript are used. ",
-    image: "./project-2.gif",
+    image: "./password-gen-vid.gif",
     link: "https://ronyelon.github.io/PasswordGenerator/",
   },
   {
