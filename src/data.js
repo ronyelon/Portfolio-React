@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Node.js",
     description:
       "The Team Profile Generator is a CLI application run in Node which requests information about members of an engineering team and creates an HTML file displaying the information. It is created using Object-Oriented Programming concepts, using classes and constructors to create objects bsed on information provided by the user. Node.js is used, using Inquirer and FS node modules. ",
-    image: "./project-3.gif",
+    image: "./Team-Profile-Gen-vid.gif",
     link: "https://github.com/ronyelon/Team-Profile-Generator",
   },
   {
