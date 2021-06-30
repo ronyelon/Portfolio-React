@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                Raleigh-Durham-Chapel Hill<br />
+                Raleigh-Durham<br />
                 North Carolina
               </p>
             </div>

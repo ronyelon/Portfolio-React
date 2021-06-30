@@ -18,7 +18,7 @@ export default function Navbar() {
             Skills
           </a>
           <a href="#testimonials" className="mr-5 hover:text-white">
-            Testimonials
+            Testimonial00s78
           </a>
           <a href="./resume.pdf" className="mr-5 hover:text-white">
             Resume
