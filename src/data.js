@@ -36,10 +36,10 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-     "",
+     "I was interested in a career change but wasnt sure how that would go. When Rony told me about oding the exact same thing and how much learning to code allowed you to be creative and design something, I also started out and I love it!",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "",
-    company: "",
+    name: "James McDougal",
+    company: "employed soon I hope",
   },
   {
     quote:
