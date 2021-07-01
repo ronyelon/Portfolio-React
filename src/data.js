@@ -60,5 +60,6 @@ export const skills = [
   "mySQL",
   "Git",
   "MongoDB",
+  "REST API"
   
 ];

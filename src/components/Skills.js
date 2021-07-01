@@ -12,7 +12,7 @@ export default function Skills() {
               Skills &amp; Technologies
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-              enter some tech here
+            Ability and Open Mindedness to quickly learn about new development methodologies and cutting edge technologies. Solid understanding of programming logic and patterns and the ability to learn new programming languages and patterns quickly.
             </p>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
