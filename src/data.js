@@ -33,22 +33,22 @@ export const projects = [
   },
 ];
 
-//export const testimonials = [
-//  {
-//    quote:
-//     "",
-//    image: "https://randomuser.me/api/portraits/men/1.jpg",
-//    name: "",
-//    company: "",
-//  },
-//  {
-//    quote:
-//      "",
-//    image: "https://randomuser.me/api/portraits/men/94.jpg",
-//    name: " ",
-//    company: "",
-//  },
-//];
+export const testimonials = [
+  {
+    quote:
+     "",
+    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    name: "",
+    company: "",
+  },
+  {
+    quote:
+      "",
+    image: "https://randomuser.me/api/portraits/men/94.jpg",
+    name: " ",
+    company: "",
+  },
+];
 
 export const skills = [
   "JavaScript",
