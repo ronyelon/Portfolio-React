@@ -24,12 +24,12 @@ export const projects = [
     link: "https://github.com/ronyelon/Team-Profile-Generator",
   },
   {
-    title: "",
-    subtitle: "",
+    title: "Weather Dashboard API",
+    subtitle: "HTML/CSS/JavaScript/Open Weather API",
     description:
-      "",
-    image: "./project-4.gif",
-    link: "",
+      "This app allows the user to search for a city and displays the current weather conditions as well as 5-day forecast. Also uses local storage to save a history of cities for which the user has previously searched",
+    image: "./weather-dashboard.gif",
+    link: "https://ronyelon.github.io/Weather-Dashboard/",
   },
 ];
 
@@ -57,9 +57,9 @@ export const skills = [
   "Node.js",
   "CSS",
   "Bootstrap",
-  "mySQL",
+  "MySQL",
   "Git",
   "MongoDB",
-  "REST API"
-  
+  "APIs",
+  "Express",  
 ];
