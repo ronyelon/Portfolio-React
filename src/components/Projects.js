@@ -12,7 +12,7 @@ export default function Projects() {
                   Apps I've Built
                 </h1>
                 <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                https://github.com/ronyelon
+                <a href="https://github.com/ronyelon"></a>
                 </p>
               </div>
               <div className="flex flex-wrap -m-4">
