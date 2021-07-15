@@ -19,4 +19,4 @@ export default function App() {
   );
 }
 
-//thank you to Reed Barger for the frameowrk on this portfolio site  fohttps://www.freecodecamp.org/news/build-portfolio-website-react/
+//thank you to Reed Barger for the frameowrk on this portfolio site https://www.freecodecamp.org/news/build-portfolio-website-react/

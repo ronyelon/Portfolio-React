@@ -42,7 +42,7 @@ export default function Contact() {
             src="https://www.google.com/maps/embed/v1/place?q=Raleigh,+North+Carolina&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-1/2 px-6">
+            <div className="lg:w-1/2 px-12">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
@@ -55,13 +55,13 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
+              <a className="text-indigo-300 leading-relaxed">
                 RonyBraswell@hotmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE
               </h2>
-              <p className="leading-relaxed">919-646-4175</p>
+              <p className="leading-relaxed">xxx-xxx-xxxx</p>
             </div>
           </div>
         </div>
