@@ -20,7 +20,7 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
-          <a href = "mailto:RonyBraswell@hotmail.com?subject = Resume Request&body = Message" className="mr-5 hover:text-white">
+          <a href = "mailto:RonyBraswell@hotmail.com?subject=Resume Request&body=Message" className="mr-5 hover:text-white">
             Resume
           </a>
         </nav>
