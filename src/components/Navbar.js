@@ -27,7 +27,7 @@ export default function Navbar() {
                     <img src="./linkedin.png" alt="LinkedIn logo" height="35" width="35"/>
                 </a>
           </nav>
-        <a href="mailto:RBraswellDev@gmail.com.com?&body=Message"
+        <a href="mailto:RBraswellDev@gmail.com?&body=Message"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Contact Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
