@@ -6,7 +6,7 @@ export default function Navbar() {
     <header className="bg-gray-800 md:sticky top-0 z-10">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
-          <a href="https://www.linkedin.com/in/rony-b-027123201" className="ml-3 text-xl">
+          <a href="" className="ml-3 text-xl">
             Rony Braswell
           </a>
         </a>
@@ -20,12 +20,14 @@ export default function Navbar() {
           <a href="#testimonials" className="mr-5 hover:text-white">
             Testimonials
           </a>
-          <a href = "mailto:RBraswellDev@gmail.com.com?subject=Resume Request&body=Message" className="mr-5 hover:text-white">
-            Resume
-          </a>
-        </nav>
-        <a
-          href="#contact"
+          <a href="https://github.com/ronyelon" target="">
+                    <img src="./github.png" alt="GitHub logo" height="1px"/>
+                </a>
+          <a href="https://www.linkedin.com/in/ronyb/" target="">
+                    <img src="./linkedin.png" alt="LinkedIn logo" height="35" width="35"/>
+                </a>
+          </nav>
+        <a href="mailto:RBraswellDev@gmail.com.com?&body=Message"
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
           Contact Me
           <ArrowRightIcon className="w-4 h-4 ml-1" />
