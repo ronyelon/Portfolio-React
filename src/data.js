@@ -5,6 +5,7 @@ export const projects = [
     description:
       "This app allows you to update and review the books in your neighborhood Little Free Library. LFL's are located throughout the world and they serve as '...a catalyst for building community, inspiring readers, and expanding book access for all through a global network of volunteer-led Little Free Libraries.' On this app you can add books to your LFL inventory list, remove (or check out) books and see what other LFL's nearby have in stock",
     image: "./coming-soon.jpg",
+    //Image by <a href="https://pixabay.com/users/rossmannyyc-5748266/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2550190">Ross Mann</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2550190">Pixabay</a>
     link: "https://ronyelon.github.io/Little-Free-Library-Books/",
   },
   {
