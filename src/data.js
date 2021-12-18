@@ -1,5 +1,13 @@
 export const projects = [
   {
+    title: "Little Free Library Book Search",
+    subtitle: "",
+    description:
+      "This app allows you to update and review the books in your neighborhood Little Free Library. LFL's are located throughout the world and they serve as '...a catalyst for building community, inspiring readers, and expanding book access for all through a global network of volunteer-led Little Free Libraries.' On this app you can add books to your LFL inventory list, remove (or check out) books and see what other LFL's nearby have in stock",
+    image: "./coming-soon.jpg",
+    link: "https://ronyelon.github.io/Little-Free-Library-Books/",
+  },
+  {
     title: "Code Quiz",
     subtitle: "HTML/CSS/JavaScript",
     description:
@@ -36,7 +44,7 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-     "I was interested in a career change into coding but wasn't sure where to begin. When Rony told me about what he was doing and coding allowed you to be creative and design something, I also started out and I love it!",
+      "I was interested in a career change into coding but wasn't sure where to begin. When Rony told me about what he was doing and coding allowed you to be creative and design something, I also started out and I love it!",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "James McDougal",
     company: "employed soon I hope",
@@ -61,5 +69,5 @@ export const skills = [
   "Git",
   "MongoDB",
   "APIs",
-  "Express",  
+  "Express",
 ];
