@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Workout Tracker",
-    subtitle: "",
+    subtitle: "Build a REST API using Express.js, Node.js, and JavaScript",
     description:
       "This app is a REST API for workout style training application. You can create, read, update and delete workouts of the day. Uses JavaScript, Node.js, and Express.js.",
     image: "./coming-soon.jpg",
